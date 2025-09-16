@@ -31,7 +31,7 @@ function toggleDropdown() {
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
-    background-color: #f8f9fa;
+    background-color: #707070;
 }
 
 .logo h1 {
